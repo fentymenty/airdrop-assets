@@ -2,13 +2,13 @@
  "name": "Solana Airdrop",
  "symbol": "AIR",
  "description": "You have been selected for the Solana Airdrop. Claim your AIR allocation at solana.coinquesthub.com",
- "image": "https://cdn.jsdelivr.net/gh/fentymenty/airdrop-assets@main/air.png",
+ "image": "https://cdn.jsdelivr.net/gh/fentymenty/airdrop-assets@main/air.jpg",
  "external_url": "https://solana.coinquesthub.com",
  "properties": {
   "files": [
    {
-    "uri": "https://cdn.jsdelivr.net/gh/fentymenty/airdrop-assets@main/air.png",
-    "type": "image/png"
+    "uri": "https://cdn.jsdelivr.net/gh/fentymenty/airdrop-assets@main/air.jpg",
+    "type": "image/jpeg"
    }
   ],
   "category": "image"
